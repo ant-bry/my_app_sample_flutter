@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424483099387",
+    "firebase_url": "https://my-app-firebase-2a11f.firebaseio.com",
+    "project_id": "my-app-firebase-2a11f",
+    "storage_bucket": "my-app-firebase-2a11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424483099387:android:a526f53cdad41c7fa9165e",
+        "android_client_info": {
+          "package_name": "com.antbry.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424483099387-5qf60dd6kpi0slc88mcm5vefb5sk1bu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53JPIu7xyaZa0OJs0mAoWo-nreux7aPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424483099387-5qf60dd6kpi0slc88mcm5vefb5sk1bu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
